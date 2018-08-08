@@ -1,4 +1,14 @@
-## Vazco SlideDeck
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Vazco SlideDeck
+</h1>
+
+&nbsp;
+
+<h3 align="center">
+  -- Abandonware. This package is deprecated! --
+</h3>
+
+&nbsp;
 
 ### Demo
 
