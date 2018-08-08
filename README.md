@@ -120,3 +120,9 @@ Example settings.json:
 ```
 
 This file should be in .gitignore file. Only with this you will be able to login and run live presentation.
+
+### License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+GPL3
